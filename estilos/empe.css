@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* Configuração de tela empe */
+
+html body {
+    background-color: #f00;
+    
+}
+
+html body {
+    background: url(../imgs/cev-portrait.jpg) center bottom no-repeat;
+    background-size: cover;
+}
